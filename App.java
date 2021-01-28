@@ -18,9 +18,9 @@ public class App {
     Chef kevin = new Chef("Kevin");
 
     // TODO: Get kevin to make chili and make a new Chef named Jim here!
-    kevin.makeFood("chili");
+    kevin.makeFood(" chili");
     Chef jim = new Chef("Jim");
-    jim.makeFood("tacos");
+    jim.makeFood(" tacos");
 
     // This line exits the program.
     System.exit(0);

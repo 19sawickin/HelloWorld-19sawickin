@@ -68,16 +68,16 @@ Answer: parameter
 Question 6
 ==========
 What lines print out in the console?
-Line 1:
-Line 2:
-Line 3:
-Line 4:
-Line 5:
-Line 6:
+Line 1: A new Chef named Kevin has been made.
+Line 2: Washing hands, putting on an apron, and prepping the kitchen...
+Line 3: Making chili!
+Line 4: A new Chef named Jim has been made.
+Line 5: Washing hands, putting on an apron, and prepping the kitchen...
+Line 6: Making tacos!
 
 
 ==========
 Question 7
 ==========
 What text fills in the blank?
-Answer:
+Answer: java.lang.NullPointerException
