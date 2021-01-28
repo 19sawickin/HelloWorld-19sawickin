@@ -55,13 +55,13 @@ Answer: method definition/body
 Question 4
 ==========
 What is samBot?
-Answer:
+Answer: An instance of the class Robot
 
 What is moveForward?
-Answer:
+Answer: method name
 
 What is 3?
-Answer:
+Answer: parameter
 
 
 ==========
