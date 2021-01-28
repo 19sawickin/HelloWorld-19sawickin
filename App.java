@@ -18,6 +18,9 @@ public class App {
     Chef kevin = new Chef("Kevin");
 
     // TODO: Get kevin to make chili and make a new Chef named Jim here!
+
+    // executed the makeFood method then made a new instance of Chef
+    // with the variable Jim stored in it. Jim also executes the method makeFood.
     kevin.makeFood(" chili");
     Chef jim = new Chef("Jim");
     jim.makeFood(" tacos");

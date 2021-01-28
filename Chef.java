@@ -29,7 +29,9 @@ public class Chef {
    * TODO: Write your makeFood() method goes below!
    */
 
-  public void makeFood(String foodToMake) {   
+  // makeFood method that prints out a string given a particular
+  // string parameter input
+  public void makeFood(String foodToMake) {
     System.out.println("Making" + foodToMake + "!");
   }
 
