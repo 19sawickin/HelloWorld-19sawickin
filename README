@@ -8,39 +8,47 @@ Do NOT include your cslogin or any other identifying information.
 Question 0
 ==========
 Have you filled out the form?
-Answer:
+Answer: Yes
 
 Summary of the collaboration policy and rationale:
-Answer:
+Answer: The collaboration policy makes it so that students in CS15 can discuss overarching topics that are covered
+in class, but not specific elements of assignments. For homework, students can speak with one another about conceptual
+ideas such as class structure/organization, but not look at each other's code or code from a previous year. For labs
+and design sections, students are allowed to work with their lab partners, but not collaborate with other students.
+During conceptual hours, you're allowed to work with other students, but not show each other code or discuss the
+specifics of it in any capacity. Students are, however, allowed to discuss any course material that's covered in lecture
+with each other outside of lecture. The reason why this collaboration policy exists is because CS15 does not have
+tests and quizzes, meaning projects are the only way that we can be assessed. If we're working with other students and
+not actually completing the projects to the best of our own ability, we aren't really learning anything at all.
 
 
 ==========
 Question 1
 ==========
 Hello world!
-Answer:
+Answer: main
 
 A new Chef named Kevin has been made.
-Answer:
+Answer: Chef
 
 Washing hands, putting on an apron, and prepping the kitchen…
-Answer:
+Answer: getReady
 
 
 ==========
 Question 2
 ==========
 add
-Answer:
+Answer: method name
 
 firstNum
-Answer:
+Answer: parameter name
 
 secondNum
-Answer:
+Answer: parameter name
 
 return firstNum + secondNum;
-Answer:
+Answer: method definition/body
 
 
 ==========

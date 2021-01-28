@@ -28,4 +28,11 @@ public class Chef {
   /*
    * TODO: Write your makeFood() method goes below!
    */
+
+  public void makeFood(String foodToMake) {                 //should I use "void"? Or nothing? Error if nothing
+    System.out.println("Making" + foodToMake + "!");
+  }
+
+
 }
+
